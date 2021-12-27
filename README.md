@@ -37,7 +37,7 @@ Install my-project with browser
     
 ## Screenshots
 
-![App Screenshot](https://firebasestorage.googleapis.com/v0/b/codestation21-42e53.appspot.com/o/Aperle.png?alt=media&token=ab1f0912-1168-4b6e-b90f-c2136f4564e6)
+![App Screenshot](https://firebasestorage.googleapis.com/v0/b/codestation21-42e53.appspot.com/o/Aperle.jpg?alt=media&token=1c20a58d-6976-490f-96ab-414d638dcccc)
 
 
 
